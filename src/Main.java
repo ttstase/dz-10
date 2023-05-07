@@ -61,7 +61,5 @@ public class Main {
         } finally {
             System.out.println("Дякуємо, що скористалися нашим сервісом");
         }
-
-
     }
 }
